@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Arora</h1>
-<h3 align="center">Aspiring Software Developer in Toronto, Ontario.</h3>
+<h3 align="center">Aspiring Software Developer.</h3>
 
+![tushar1451's Stats](https://github-readme-stats.vercel.app/api?username=tushar1451&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
 - 📫 How to reach me **tushararora342@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
