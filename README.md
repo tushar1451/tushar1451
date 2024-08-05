@@ -1,7 +1,7 @@
 <div width= "full">
 <img src = "banner.png">
 </div>
-  <h2 align="left">Hi 👋! I'm Tushar, a Software Developer from Toronto, Ontario.</h2>
+  <h2 align="center">Hi 👋! I'm Tushar, a Software Developer from Toronto, Ontario.</h2>
 
 ###
 
