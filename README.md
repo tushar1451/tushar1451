@@ -2,6 +2,8 @@
 <h3 align="center">Aspiring Software Developer.</h3>
 
 ![tushar1451's Stats](https://github-readme-stats.vercel.app/api?username=tushar1451&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![tushar1451's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tushar1451&theme=highcontrast&hide_border=true)
+![tushar1451's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar1451&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 - 📫 How to reach me **tushararora342@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
