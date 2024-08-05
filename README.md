@@ -1,7 +1,7 @@
 <div width= "full">
 <img src = "banner.png">
 </div>
-  <h2 align="left">Hi 👋! My name is Tushar Arora and I'm a Software Developer, from Toronto, Ontario.</h2>
+  <h2 align="left">Hi 👋! I'm Tushar, a Software Developer from Toronto, Ontario.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 </div>
 
 ###
-
+###
 <div align="left">
   <a href="https://youtube.com/@SharryyBeats" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
