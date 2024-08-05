@@ -1,4 +1,4 @@
-<div align="center">
+<div width= "full">
 <img src = "banner.png">
 </div>
   <h2 align="left">Hi 👋! My name is Tushar Arora and I'm a Software Developer, from Toronto, Ontario.</h2>
@@ -7,7 +7,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tushar1451&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  ![tushar1451's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tushar1451&theme=radical&hide_border=true)
 </div>
 
 ###
