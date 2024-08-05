@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Tushar Arora and I'm a Software Developer, from Toronto, Ontario.</h2>
+<div align="center">
+<img src = "banner.png">
+</div>
+  <h2 align="left">Hi 👋! My name is Tushar Arora and I'm a Software Developer, from Toronto, Ontario.</h2>
 
 ###
 
