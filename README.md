@@ -5,6 +5,7 @@
 
 ###
 ![tushar1451's Stats](https://github-readme-stats.vercel.app/api?username=tushar1451&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![tushar1451's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tushar1451&theme=vue-dark&hide_border=true)
 ###
 ###
 <div align="left">
