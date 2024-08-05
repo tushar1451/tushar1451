@@ -4,11 +4,7 @@
   <h2 align="center">Hi 👋! I'm Tushar, a Software Developer from Toronto, Ontario.</h2>
 
 ###
-
-<div align="center">
-  ![tushar1451's Stats](https://github-readme-stats.vercel.app/api?username=tushar1451&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</div>
-
+![tushar1451's Stats](https://github-readme-stats.vercel.app/api?username=tushar1451&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ###
 ###
 <div align="left">
